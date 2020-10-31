@@ -1,2 +1,0 @@
-# velguush.QA
-QA Engineer
